@@ -118,12 +118,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ControlPanel" xml:space="preserve">
-    <value>Control Panel</value>
+    <value>제어판</value>
   </data>
   <data name="DeviceManager" xml:space="preserve">
-    <value>Device Manager</value>
+    <value>장치관리자</value>
   </data>
   <data name="TaskManager" xml:space="preserve">
-    <value>Task Manager</value>
+    <value>작업관리자</value>
   </data>
 </root>
